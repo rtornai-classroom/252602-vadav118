@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\susmachine\Desktop\Computer_Graphics\1Beadando\1Beadando\Source.cpp(95,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\susmachine\Desktop\Computer_Graphics\1Beadando\1Beadando\Source.cpp(180,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\susmachine\Desktop\Computer_Graphics\1Beadando\1Beadando\Source.cpp(181,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\susmachine\Desktop\Computer_Graphics\1Beadando\1Beadando\Source.cpp(182,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1Beadando.vcxproj -> C:\Users\susmachine\Desktop\Computer_Graphics\1Beadando\x64\Debug\1Beadando.exe
